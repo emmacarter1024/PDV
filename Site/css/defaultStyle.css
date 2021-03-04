@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Rubik:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*  Variables */
+:root {
+    /* Spacers - I really like this concept! */
+    --sp1: 8px;
+    --sp2: 16px;
+    --sp3: 32px;
+    --sp4: 48px;    /* oh! half powers! */
+    --sp5: 64px;
+
+    /* Interface colours */
+    --primary-color: #D02670;
+    --primary-tint-color: #FFAFD2;
+    --secondary-color: #33B1FF;
+    --secondary-tint-color: #BAE6FF;
+    --default-text-color: #FFFFFF;
+    --invert-text-color: #000000;
+    --background-surface-color: #020E19;
+    --surface-color: #061727;
+    --highlighted-surface-color: #102940;
+
+    /* Monochromatic vis colours */
+    --mono-vis-color-1: #d02670;
+    --mono-vis-color-2: #ffd6e8;
+    --mono-vis-color-3: #740937;
+    --mono-vis-color-4: #ff7eb6;
+    --mono-vis-color-5: #9f1853;
+    --mono-vis-color-6: #ffafd2;
+    --mono-vis-color-7: #ee5396;
+    --mono-vis-color-8: #fff0f7;
+
+    /* Chromatic vis colours */
+    --multi-vis-color-1: #f03e3e;
+    --multi-vis-color-2: #7048e8;
+    --multi-vis-color-3: #1098ad;
+    --multi-vis-color-4: #74b816;
+    --multi-vis-color-5: #d02670;
+    --multi-vis-color-6: #4263eb;
+    --multi-vis-color-7: #0ca678;
+    --multi-vis-color-8: #f59f00;
+    --multi-vis-color-9: #ae3ec9;
+    --multi-vis-color-10: #1c7ed6;
+    --multi-vis-color-11: #37b24d;
+    --multi-vis-color-12: #f76707;
+
+    --base-font-size: 18px;
+
+    --content-width: 1200px;
+    --nav-width:100%;
+
+    --heading-font: 'Rubik', sans-serif;
+    --body-font: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--background-surface-color);
+    color: var(--default-text-color);
+    font-size: var(--base-font-size);
+    line-height: 1.4;
+    width: var(--nav-width);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title, h1 {
+    font-family: var(--heading-font);
+    font-size: 2.667em;
+    font-weight: 600;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--default-text-color);
+}
+
+footer a {
+    color: var(--default-text-color);
+}
+
+h2 {
+    font-family: var(--heading-font);
+    font-size: 1.778em;
+    font-weight: 600;
+}
+
+p + h2 {
+    padding-top: var(--sp2);
+}
+
+h3 {
+    font-family: var(--heading-font);
+    font-size: 1.33em;
+    font-weight: 600;
+}
+
+p + h3 {
+    padding-top: var(--sp2);
+}
+
+h4 {
+    font-family: var(--heading-font);
+    font-weight: 600;
+}
+
+p + h4 {
+    padding-top: var(--sp2);
+}
+
+p {
+    font-family: var(--body-font);
+    line-height: 1.4em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.panel {
+    width: var(--content-width);
+    background-color: var(--surface-color);
+    margin: var(--sp2);
+    padding: var(--sp2);
+}
+
+.wordy-panel p {
+    padding-top: var(--sp2);
+}
+
+.feature {
+    background-color: var(--highlighted-surface-color);
+}
+
+.panel.fullsize {
+    width: calc(var(--nav-width) - 2 * var(--sp2));
+}
+
+.top-nav {
+    display: flex;
+}
+
+.nav-button {
+    background-color: var(--primary-color);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: var(--sp2);
+    margin: 0px var(--sp2);
+    height: min-content;
+}
+
+.nav-button:hover {
+    background-color: var(--primary-tint-color);
+}
+
+.nav-button:hover p {
+    color: var(--invert-text-color);
+}
+
+.nav-button p {
+    font-family: var(--heading-font);
+    font-weight: 600;
+}
+
+.nav-button.selected {
+    background-color: var(--primary-tint-color);
+}
+
+.nav-button.selected p {
+    color: var(--invert-text-color);
+}
+
+.big-body {
+    font-size: 1.778em;
+}
+
+.vis {
+    text-align: center;
+}
+
+.vis img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
