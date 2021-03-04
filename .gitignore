@@ -1,1 +1,2 @@
-./Data/AEC_HTML_Data/*.html
+Data/AEC_HTML_Data/
+node_modules/
