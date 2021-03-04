@@ -1,0 +1,21 @@
+.expandable {
+    cursor: pointer;
+}
+
+.expandable img {
+    width: 32px;
+    display: inline;
+}
+
+.expanded-img {
+    transform: rotate(180deg);
+}
+
+.expandable-content {
+    padding-bottom: var(--sp2);
+    display: none;
+}
+
+.expandable  {
+    padding-top: var(--sp2);
+}
