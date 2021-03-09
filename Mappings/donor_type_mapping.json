@@ -1,0 +1,490 @@
+[
+    {
+        "pattern":"Australian Taxation Office",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"NSW Electoral Commission",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Victorian Electoral Commission",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"AEC",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"ATO",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Bequest",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Dept Finance",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"ECSA",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Greens WA",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Queensland Greens",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Liberal Party",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"LNP",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"NSW Greens",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"South Australian Greens",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Victorian Greens",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"AUSTRALIAN GREENS",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"CFMEU",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"AUSTRALIAN ELECTORAL COMMISSION",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Department of the Senate",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Electoral Commission of Queensland",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Engineers Australia",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"One Nation",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Branch ALP",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Labor Party",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Foundation",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Association",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Institute",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Bank",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Realty",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Pty Ltd",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Limited",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Services Ltd",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Property Management",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Media",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Super",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Financial Services",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"ALP",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Toyota",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Election Commission",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Electoral Commission",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Union",
+        "match_type":"contains",
+        "result":"Union"
+    },
+    {
+        "pattern":"Lawyers",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Australian Taxation Office",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"MLC",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Club",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Raymond",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Stanley",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"South Australian Film Corporation",
+        "match_type":"exact",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Tourism and Events Queensland",
+        "match_type":"exact",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"University of Queensland",
+        "match_type":"exact",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"ACS",
+        "match_type":"exact",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"IFS Insurance Solutions",
+        "match_type":"exact",
+        "result":"Company"
+    },
+    {
+        "pattern":"Allianz",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Holdings",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Coogee Chemicals",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Deloitte",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Fortescue",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"AIA",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"ANZ",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Alinta",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Amaysim",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Ark Television Concepts",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Arrow Energy",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Aspen Medical",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Astra Zeneca",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Bayer",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Beteasy",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Biogen",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Blackmores",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Bongiorno Group",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Sportsbet",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"PWC",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Raytheon",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"BUPA",
+        "match_type":"contains",
+        "result":"Company"
+    },    
+    {
+        "pattern":"Breweries",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Clean Energy Council",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Cochlear",
+        "match_type":"contains",
+        "result":"Company"
+    },
+    {
+        "pattern":"Shoalhaven City",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Department of Finance",
+        "match_type":"contains",
+        "result":"Government"
+    },
+    {
+        "pattern":"Dept of Premier & Cabinet",
+        "match_type":"exact",
+        "result":"Government"
+    },
+    {
+        "pattern":"The Dpartment of Industry",
+        "match_type":"exact",
+        "result":"Government"
+    },
+    {
+        "pattern":"CBA on behalf of Dept of Finance office of State Revenue",
+        "match_type":"exact",
+        "result":"Government"
+    },
+    {
+        "pattern":"AusAID",
+        "match_type":"exact",
+        "result":"Government"
+    },
+    {
+        "pattern":"Chamber",
+        "match_type":"contains",
+        "result":"Organisation"
+    },
+    {
+        "pattern":"Alphapharm",
+        "match_type":"exact",
+        "result":"Company"
+    },
+    {
+        "pattern":"KARLSON",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"MCNABB",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"BRUTTO",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Garrett",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Georgeanas",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Derryn Hinch",
+        "match_type":"exact",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Adam Gillett",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Christine Farmer",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Glen Ford",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Michael Francis",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Mr ",
+        "match_type":"contains",
+        "result":"Individual"
+    },
+    {
+        "pattern":"Ms ",
+        "match_type":"contains",
+        "result":"Individual"
+    }
+    
+]
+    
+

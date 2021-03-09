@@ -5,3 +5,4 @@ $(".expandable").on('click', function () {
     $(this).next(".expandable-content").toggle();
     
 });
+

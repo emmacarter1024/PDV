@@ -1,0 +1,444 @@
+Dummy~Party~Parent Party
+~Animal Justice Party~Animal Justice Party
+~Australian Christians~Australian Christians
+~Australian Greens~Australian Greens
+~Australian Greens (South Australia)~Australian Greens
+~Australian Greens, Australian Capital Territory Branch~Australian Greens
+~Australian Greens, Northern Territory Branch~Australian Greens
+~Australian Greens, Tasmanian Branch~Australian Greens
+~Australian Labor Party (ACT Branch)~Australian Labor Party (ALP)
+~Australian Labor Party (ALP)~Australian Labor Party (ALP)
+~Australian Labor Party (N.S.W. Branch)~Australian Labor Party (ALP)
+~Australian Labor Party (Northern Territory) Branch~Australian Labor Party (ALP)
+~Australian Labor Party (South Australian Branch)~Australian Labor Party (ALP)
+~Australian Labor Party (State of Queensland)~Australian Labor Party (ALP)
+~Australian Labor Party (Tasmanian Branch)~Australian Labor Party (ALP)
+~Australian Labor Party (Victorian Branch)~Australian Labor Party (ALP)
+~Australian Labor Party (Western Australian Branch)~Australian Labor Party (ALP)
+~Centre Alliance~Centre Alliance
+~Christian Democratic Party (Fred Nile Group)~Christian Democratic Party (Fred Nile Group)
+~Clive Palmer's United Australia Party~Clive Palmer's United Australia Party
+~Country Labor Party~Australian Labor Party (ALP)
+~Country Liberal Party (NT)~Liberal Party of Australia
+~Democratic Labour Party - Victorian Branch~Democratic Labour Party - Victorian Branch
+~Derryn Hinch's Justice Party~Derryn Hinch's Justice Party
+~Jacqui Lambie Network~Jacqui Lambie Network
+~Katter's Australian Party (KAP)~Katter's Australian Party (KAP)
+~Liberal Democratic Party~Liberal Democratic Party
+~Liberal Democratic Party (Victoria Branch)~Liberal Democratic Party
+~Liberal National Party of Queensland~Liberal Party of Australia
+~Liberal Party (W.A. Division) Inc~Liberal Party of Australia
+~Liberal Party of Australia~Liberal Party of Australia
+~Liberal Party of Australia - ACT Division~Liberal Party of Australia
+~Liberal Party of Australia - Tasmanian Division~Liberal Party of Australia
+~Liberal Party of Australia (S.A. Division)~Liberal Party of Australia
+~Liberal Party of Australia (Victorian Division)~Liberal Party of Australia
+~Liberal Party of Australia, NSW Division~Liberal Party of Australia
+~National Party of Australia~National Party of Australia
+~National Party of Australia - N.S.W.~National Party of Australia
+~National Party of Australia - Victoria~National Party of Australia
+~National Party of Australia (WA) Inc~National Party of Australia
+~Pauline Hanson's One Nation~Pauline Hanson's One Nation
+~Queensland Greens~Australian Greens
+~Shooters, Fishers and Farmers Party~Shooters, Fishers and Farmers Party
+~Sustainable Australia Party - Stop Overdevelopment / Corruption~Sustainable Australia Party - Stop Overdevelopment / Corruption
+~The Australian Greens - Victoria~Australian Greens
+~The Great Australian Party~The Great Australian Party
+~The Greens (WA) Inc~Australian Greens
+~The Greens NSW~Australian Greens
+~Victorian Socialists~Victorian Socialists
+~Advance Australia~Advance Australia
+~AEU NSW Teachers Federation~AEU NSW Teachers Federation
+~Australian Automobile Association~Australian Automobile Association
+~Australian Chamber of Commerce and Industry~Australian Chamber of Commerce and Industry
+~Australian Council of Trade Unions~Australian Council of Trade Unions
+~Australian Education Union ~Australian Education Union 
+~Australian Municipal Administrative Clerical and Services Union ~Australian Municipal Administrative Clerical and Services Union 
+~Australian Nursing & Midwifery Federation~Australian Nursing & Midwifery Federation
+~Business Council of Australia~Business Council of Australia
+~Construction, Forestry, Maritime, Mining and Energy Union~Construction, Forestry, Maritime, Mining and Energy Union
+~GetUp Limited~GetUp Limited
+~LET Australia Ltd~LET Australia Ltd
+~Minerals Council of Australia~Minerals Council of Australia
+~New South Wales Nurses and Midwives' Association~New South Wales Nurses and Midwives' Association
+~United Workers Union~United Workers Union
+~Universities Australia~Universities Australia
+~Warringah Independent Limited~Warringah Independent Limited
+~1973 Foundation Pty Ltd~1973 Foundation Pty Ltd
+~281 Sandgate Road Properties Pty Ltd~281 Sandgate Road Properties Pty Ltd
+~ALP Holdings Pty Ltd as Trustee of the ALP Investment Trust~ALP Holdings Pty Ltd as Trustee of the ALP Investment Trust
+~Altum Pty Ltd as Trustee for Altum Property Unit Trust~Altum Pty Ltd as Trustee for Altum Property Unit Trust
+~Altum Pty Ltd as Trustee for the Altum Head Quarters Trust~Altum Pty Ltd as Trustee for the Altum Head Quarters Trust
+~Animal Justice Foundation Pty Ltd~Animal Justice Foundation Pty Ltd
+~ASU - NSW Local Government Clerical Administrative Energy Airlines & Utilities Branch~ASU - NSW Local Government Clerical Administrative Energy Airlines & Utilities Branch
+~Australasian Meat Industry Employees' Union - QLD Branch~Australasian Meat Industry Employees' Union - QLD Branch
+~Australasian Meat Industry Employees Union Victorian Branch~Australasian Meat Industry Employees Union Victorian Branch
+~Australian Federated Union of Locomotive Employees~Australian Federated Union of Locomotive Employees
+~Australian Municipal Administrative Clerical & Services Union - Queensland Together Branch~Australian Municipal Administrative Clerical & Services Union - Queensland Together Branch
+~Australian Municipal, Administrative, Clerical and Services Union - Queensland (Services and Northern Administrative) Branch~Australian Municipal, Administrative, Clerical and Services Union - Queensland (Services and Northern Administrative) Branch
+~Australian Rail Tram & Bus Industry Union SA/NT~Australian Rail Tram & Bus Industry Union SA/NT
+~Australian Rail Tram & Bus Industry Union, Queensland Branch~Australian Rail Tram & Bus Industry Union, Queensland Branch
+~Australian Rail Tram & Bus Union (Victorian Branch)~Australian Rail Tram & Bus Union (Victorian Branch)
+~Australian Rail Tram and Bus Industry Union New South Wales Branch~Australian Rail Tram and Bus Industry Union New South Wales Branch
+~Australian Services Union - Victorian & Tasmanian Authorities & Services Branch~Australian Services Union - Victorian & Tasmanian Authorities & Services Branch
+~Australian Services Union of NSW & ACT (Services) Branch~Australian Services Union of NSW & ACT (Services) Branch
+~Australian Services Union SA - NT Branch~Australian Services Union SA - NT Branch
+~Australian Workers Union SA Branch~Australian Workers Union SA Branch
+~Australian Workers Union WA Branch~Australian Workers Union WA Branch
+~Automotive Food Metals Engineering Printing & Kindred Ind. Union~Automotive Food Metals Engineering Printing & Kindred Ind. Union
+~AWU - Australian Workers Union (Tasmanian Branch)~AWU - Australian Workers Union (Tasmanian Branch)
+~Bayside Forum~Bayside Forum
+~Bunori Pty Limited~Bunori Pty Limited
+~Canberra Labor Club Limited~Australian Labor Party (ALP)
+~CEC Australia (Services) Pty Ltd~CEC Australia (Services) Pty Ltd
+~CEPU - Electrical Division QLD & NT ~CEPU - Electrical Division QLD & NT 
+~CEPU Communications Division (CWU QLD Branch)~CEPU Communications Division (CWU QLD Branch)
+~CEPU Communications Division SA/NT Branch~CEPU Communications Division SA/NT Branch
+~CEPU Electrical, Energy & Services Division - SA~CEPU Electrical, Energy & Services Division - SA
+~CEPU Engineering & Electrical Division WA Branch~CEPU Engineering & Electrical Division WA Branch
+~CEPU Plumbing Division - NSW (CEPU of Australia NSW Branch)~CEPU Plumbing Division - NSW (CEPU of Australia NSW Branch)
+~CEPU Plumbing Division Queensland Branch~CEPU Plumbing Division Queensland Branch
+~CEPU Plumbing Division Victoria~CEPU Plumbing Division Victoria
+~Communications Electrical Plumbing Union NSW P & T Branch~Communications Electrical Plumbing Union NSW P & T Branch
+~Community and Public Sector Union (PSU Group)~Community and Public Sector Union (PSU Group)
+~Constituent Management Services Pty Ltd~Constituent Management Services Pty Ltd
+~Construction Forestry Mining & Energy Union (NSW Branch) Construction & General Division (NSW State Body)~Construction Forestry Mining & Energy Union (NSW Branch) Construction & General Division (NSW State Body)
+~Cormack Foundation Pty Ltd~Cormack Foundation Pty Ltd
+~Electrical Trades Union of Australia - Victoria Branch~Electrical Trades Union of Australia - Victoria Branch
+~Electrical Trades Union of Australia NSW Branch~Electrical Trades Union of Australia NSW Branch
+~Electrical Trades Union of Employees Queensland~Electrical Trades Union of Employees Queensland
+~Forrest Cattle Fund Inc~Forrest Cattle Fund Inc
+~Health & Community Services Union Vic No. 2 HSU~Health & Community Services Union Vic No. 2 HSU
+~Health Services Union NSW~Health Services Union NSW
+~Health Services Union SA Branch~Health Services Union SA Branch
+~Health Services Union, Tasmania Branch~Health Services Union, Tasmania Branch
+~John Curtin House Limited~John Curtin House Limited
+~John McEwen House Pty Ltd~John McEwen House Pty Ltd
+~Kooyong 200 Club~Kooyong 200 Club
+~Labor Holdings Pty Ltd~Australian Labor Party (ALP)
+~Labor Services & Holding Pty Ltd ATF the Labor Services and Holding Trust~Australian Labor Party (ALP)
+~Laneway Assets Pty Ltd~Laneway Assets Pty Ltd
+~Laneway Assets Pty Ltd as Trustee for the National Policy Forum Trust~Laneway Assets Pty Ltd as Trustee for the National Policy Forum Trust
+~Liberal Club Limited~Liberal Party of Australia
+~Media Entertainment & Arts Alliance~Media Entertainment & Arts Alliance
+~Mehring Books Pty Ltd~Mehring Books Pty Ltd
+~National Union of Workers - National Office~National Union of Workers - National Office
+~New South Wales Local Government Clerical Administrative Energy Airlines & Utilities Union T/A United Services Union~New South Wales Local Government Clerical Administrative Energy Airlines & Utilities Union T/A United Services Union
+~Parakeelia Pty Ltd~Parakeelia Pty Ltd
+~Perth Trades Hall Inc~Perth Trades Hall Inc
+~Pilliwinks Pty Ltd as Trustee National Party Foundation~Pilliwinks Pty Ltd as Trustee National Party Foundation
+~Progressive Business Association Inc~Progressive Business Association Inc
+~Queensland Services, Industrial Union of Employees~Queensland Services, Industrial Union of Employees
+~SA Progressive Business Incorporated~SA Progressive Business Incorporated
+~Shop Distributive & Allied Employees Association - Tasmanian Branch~Shop Distributive & Allied Employees Association - Tasmanian Branch
+~Shop Distributive & Allied Employees Association - VIC Branch~Shop Distributive & Allied Employees Association - VIC Branch
+~Shop Distributive & Allied Employees' Association NSW Branch~Shop Distributive & Allied Employees' Association NSW Branch
+~Shop Distributive & Allied Employees' Association of Western Australia~Shop Distributive & Allied Employees' Association of Western Australia
+~Shop Distributive & Allied Employees Association South Australian Branch (Federal Body)~Shop Distributive & Allied Employees Association South Australian Branch (Federal Body)
+~Shop Distributive & Allied Employees Association South Australian Branch (State Body)~Shop Distributive & Allied Employees Association South Australian Branch (State Body)
+~Shop Distributive and Allied Employees Association (QLD Branch)~Shop Distributive and Allied Employees Association (QLD Branch)
+~Shop, Distributive & Allied Employees' Association - National~Shop, Distributive & Allied Employees' Association - National
+~The 500 Club (WA)~The 500 Club (WA)
+~The Australian Workers' Union NSW Branch~The Australian Workers' Union NSW Branch
+~The Australian Workers' Union of Employees Queensland~The Australian Workers' Union of Employees Queensland
+~The Chifley Research Centre Ltd~The Chifley Research Centre Ltd
+~The Green Institute Limited~Australian Greens
+~The Greenfields Foundation~Australian Greens
+~The Liberal Party of Western Australia Pty Ltd~Liberal Party of Australia
+~The Menzies Research Centre Limited~The Menzies Research Centre Limited
+~The Page Research Centre Ltd~The Page Research Centre Ltd
+~The Pinnacle Club~The Pinnacle Club
+~The United Professional Firefighters Union of Western Australia~The United Professional Firefighters Union of Western Australia
+~Transport Workers Union  VIC/TAS Branch~Transport Workers Union  VIC/TAS Branch
+~Transport Workers Union (WA Branch)~Transport Workers Union (WA Branch)
+~Transport Workers Union of Australia - NSW Branch~Transport Workers Union of Australia - NSW Branch
+~Transport Workers Union of Australia Queensland Branch~Transport Workers Union of Australia Queensland Branch
+~Transport Workers Union of Australia SA/NT Branch~Transport Workers Union of Australia SA/NT Branch
+~Transport Workers Union of New South Wales~Transport Workers Union of New South Wales
+~United Firefighters Union of Australia VIC~United Firefighters Union of Australia VIC
+~United Firefighters Union of SA Inc~United Firefighters Union of SA Inc
+~Vapold Pty Ltd~Vapold Pty Ltd
+~Australian Citizens Party~Australian Citizens Party
+~Australian Conservatives~Australian Conservatives
+~Australian Conservatives (NSW)~Australian Conservatives (NSW)
+~Australian Conservatives (Qld)~Australian Conservatives (Qld)
+~Australian Conservatives (SA)~Australian Conservatives (SA)
+~Australian Conservatives (Tas)~Australian Conservatives (Tas)
+~Australian Conservatives (Vic)~Australian Conservatives (Vic)
+~Australian Conservatives (WA)~Australian Conservatives (WA)
+~Independents CAN~Independents CAN
+~Liberal Democratic Party (WA Branch)~Liberal Democratic Party
+~WESTERN AUSTRALIA PARTY~WESTERN AUSTRALIA PARTY
+~Australian Education Union Victorian Branch~Australian Education Union Victorian Branch
+~Industry Super Australia~Industry Super Australia
+~KP Independents Limited~KP Independents Limited
+~Peninsula Independent Limited ~Peninsula Independent Limited 
+~ASU Victorian Private Sector Branch~ASU Victorian Private Sector Branch
+~CFMEU - Construction & General Division (WA Branch)~CFMEU - Construction & General Division (WA Branch)
+~CFMEU Construction & General Division VIC/TAS Branch~CFMEU Construction & General Division VIC/TAS Branch
+~CFMEU Construction and General Division South Australian Branch~CFMEU Construction and General Division South Australian Branch
+~CFMEU Construction and General Division, New South Wales Divisional Branch~CFMEU Construction and General Division, New South Wales Divisional Branch
+~CFMEU Manufacturing Division~CFMEU Manufacturing Division
+~CFMEU Mining & Energy Division (Qld District Branch)~CFMEU Mining & Energy Division (Qld District Branch)
+~CFMEU Northern Mining & NSW Energy District~CFMEU Northern Mining & NSW Energy District
+~CFMMEU - Maritime Union of Australia Division~CFMMEU - Maritime Union of Australia Division
+~Citizens Media Group Pty Ltd~Citizens Media Group Pty Ltd
+~CLP Gifts & Legacies Pty Ltd~CLP Gifts & Legacies Pty Ltd
+~Construction Forestry Maritime Mining & Energy Union The Construction & General Division ACT Divisional Branch~Construction Forestry Maritime Mining & Energy Union The Construction & General Division ACT Divisional Branch
+~Construction Forestry Mining & Energy, Industrial Union of Employees, Queensland - Construction and General Division~Construction Forestry Mining & Energy, Industrial Union of Employees, Queensland - Construction and General Division
+~Enterprise Club~Enterprise Club
+~Gatenby Investment Fund~Gatenby Investment Fund
+~Higgins 200 Club~Higgins 200 Club
+~LNP Nominees Pty Ltd as Trustee for the 6 St Paul's Terrace Unit Trust~LNP Nominees Pty Ltd as Trustee for the 6 St Paul's Terrace Unit Trust
+~The Australian Workers' Union Victorian Branch~The Australian Workers' Union Victorian Branch
+~The Violet Bobin Trust~The Violet Bobin Trust
+~Australian Affordable Housing Party~Australian Affordable Housing Party
+~Republican Party of Australia~Republican Party of Australia
+~Australasian Meat Industry Employees Union - Newcastle & Northern Branch~Australasian Meat Industry Employees Union - Newcastle & Northern Branch
+~Australasian Meat Industry Employees' Union - NSW Branch~Australasian Meat Industry Employees' Union - NSW Branch
+~Australian Rail Tram and Bus Industry Union Western Australian Branch~Australian Rail Tram and Bus Industry Union Western Australian Branch
+~CFMEU FFPD South Australia District~CFMEU FFPD South Australia District
+~Health Services Union of Victoria No.1 Branch~Health Services Union of Victoria No.1 Branch
+~National Union of Workers - NSW Branch~National Union of Workers - NSW Branch
+~National Union of Workers - Victorian Branch~National Union of Workers - Victorian Branch
+~Textile Clothing and Footwear Union of Aust - NSW, TAS, SA Br~Textile Clothing and Footwear Union of Aust - NSW, TAS, SA Br
+~Textiles, Clothing & Footwear Union (Vic & Qld & WA) Branch~Textiles, Clothing & Footwear Union (Vic & Qld & WA) Branch
+~The Breweries & Bottleyards Employees' Industrial Union of Workers of Western Australia~The Breweries & Bottleyards Employees' Industrial Union of Workers of Western Australia
+~Australian Recreational Fishers Party~Australian Recreational Fishers Party
+~Family First Party~Family First Party
+~Family First Party - QLD~Family First Party - QLD
+~Rise Up Australia Party~Rise Up Australia Party
+~Socialist Alliance~Socialist Alliance
+~VOTEFLUX.ORG | Upgrade Democracy!~VOTEFLUX.ORG | Upgrade Democracy!
+~Yellow Vest Australia~Yellow Vest Australia
+~AWU Port Kembla Branch~AWU Port Kembla Branch
+~Caulfield Challenge 200 Club~Caulfield Challenge 200 Club
+~Coal Miners Industrial Union of Workers of WA Collie~Coal Miners Industrial Union of Workers of WA Collie
+~Finance Sector Union of Aust - QLD Branch~Finance Sector Union of Aust - QLD Branch
+~Finance Sector Union of Aust - SA/NT Branch~Finance Sector Union of Aust - SA/NT Branch
+~Finance Sector Union of Australia - NSW Branch~Finance Sector Union of Australia - NSW Branch
+~Finance Sector Union of Australia - VIC/TAS Branch~Finance Sector Union of Australia - VIC/TAS Branch
+~Finance Sector Union of Australia - WA Branch~Finance Sector Union of Australia - WA Branch
+~Labor Campaign Pty Ltd~Australian Labor Party (ALP)
+~Liberal Asset Management (Custodians) Limited~Liberal Party of Australia
+~LPPH Pty Ltd~LPPH Pty Ltd
+~The Australian Workers' Union - Greater NSW Branch~The Australian Workers' Union - Greater NSW Branch
+~The Australian Workers Union - Newcastle Central Coast & Northern Regions Branch~The Australian Workers Union - Newcastle Central Coast & Northern Regions Branch
+~The Free Enterprise Foundation~The Free Enterprise Foundation
+~Australian Cyclists Party~Australian Cyclists Party
+~Australian Equality Party (Marriage)~Australian Equality Party (Marriage)
+~Australian Sex Party~Australian Sex Party
+~Family First Party - VIC~Family First Party - VIC
+~Glenn Lazarus Team~Glenn Lazarus Team
+~Help End Marijuana Prohibition (HEMP) Party~Help End Marijuana Prohibition (HEMP) Party
+~John Madigan's Manufacturing and Farming Party~John Madigan's Manufacturing and Farming Party
+~Palmer United Party~Clive Palmer's United Australia Party
+~EMILY's List Australia~EMILY's List Australia
+~Shop Distributive & Allied Employees' Asn. NSW Deductions A/C Office~Shop Distributive & Allied Employees' Asn. NSW Deductions A/C Office
+~Australian Federation Party~Australian Federation Party
+~Australian Greens, Victorian Branch~Australian Greens
+~NTN Services ~NTN Services 
+~Shop Assistants & Warehouse Employees' Federation of Australia-Newcastle & Northern NSW~Shop Assistants & Warehouse Employees' Federation of Australia-Newcastle & Northern NSW
+~Team 200 Club~Team 200 Club
+~The Liberal Foundation Inc~Liberal Party of Australia
+~Australian Fishing and Lifestyle Party~Australian Fishing and Lifestyle Party
+~Australia's First Nations Political Party~Australia's First Nations Political Party
+~Bullet Train For Australia~Bullet Train For Australia
+~Online Direct Democracy - (Empowering the People!)~Online Direct Democracy - (Empowering the People!)
+~Outdoor Recreation Party (Stop The Greens)~Australian Greens
+~Uniting Australia Party~Uniting Australia Party
+~Voluntary Euthanasia Party~Voluntary Euthanasia Party
+~Aust Building Const Employees & Builders Labour Fed (QLD Br)~Aust Building Const Employees & Builders Labour Fed (QLD Br)
+~CEPU (T&S) NSW Branch~CEPU (T&S) NSW Branch
+~Foundation 51 Pty Ltd~Foundation 51 Pty Ltd
+~Mallen's Colac Hotel Pty Ltd~Mallen's Colac Hotel Pty Ltd
+~Menzies 200 Club~Menzies 200 Club
+~Family First Party - SA~Family First Party - SA
+~Secular Party of Australia~Secular Party of Australia
+~Australian Institute of Marine and Power Engineers~Australian Institute of Marine and Power Engineers
+~CFMEU - Mining Division (Nth NSW District)~CFMEU - Mining Division (Nth NSW District)
+~CFMEU FFPD Division ~CFMEU FFPD Division 
+~CFMEU Mining & Energy Division, NSW Energy District~CFMEU Mining & Energy Division, NSW Energy District
+~National Union of Workers - General Branch~National Union of Workers - General Branch
+~Northern Territory ALP Investment Trust~Northern Territory ALP Investment Trust
+~NSW Labor Campaign Investment Pty Ltd~Australian Labor Party (ALP)
+~Sir Charles Court Foundation~Sir Charles Court Foundation
+~YLNP No. 1 Ltd (James Killen Foundation)~YLNP No. 1 Ltd (James Killen Foundation)
+~Christian Democratic Party (Fred Nile Group) WA Branch~Christian Democratic Party (Fred Nile Group) WA Branch
+~CFMEU Construction & General Division - VIC Branch~CFMEU Construction & General Division - VIC Branch
+~Flight Attendants Association of Australia - National Division~Flight Attendants Association of Australia - National Division
+~Forward Brisbane Leadership~Forward Brisbane Leadership
+~Higgins 200 Foundation Ltd~Higgins 200 Foundation Ltd
+~HSU East~HSU East
+~Liberal Properties Limited~Liberal Party of Australia
+~National Club Limited~National Club Limited
+~The Food Preservers' Union of Western Australia Union of Workers~The Food Preservers' Union of Western Australia Union of Workers
+~Transport Workers Union of Australia - Federal Council~Transport Workers Union of Australia - Federal Council
+~United Firefighters Union of Australia Qld Branch~United Firefighters Union of Australia Qld Branch
+~Australasian Meat Industry Employees Union - Federal Council~Australasian Meat Industry Employees Union - Federal Council
+~Australian Workers Union - National Office~Australian Workers Union - National Office
+~CFMEU - Construction and General Division (NT)~CFMEU - Construction and General Division (NT)
+~CFMEU C & G Division (TAS)~CFMEU C & G Division (TAS)
+~Queensland Nurses Union of Employees~Queensland Nurses Union of Employees
+~The 500 Club (VIC)~The 500 Club (VIC)
+~The Sydney Small Business Club (The Warringah Club)~The Sydney Small Business Club (The Warringah Club)
+~One Nation Queensland Division~Pauline Hanson's One Nation
+~Australasian Meat Industry Employees Union SA & WA Branch~Australasian Meat Industry Employees Union SA & WA Branch
+~Fed. Ironworkers Assoc. of Aust (QLD Br) Union of Employees~Fed. Ironworkers Assoc. of Aust (QLD Br) Union of Employees
+~Health Services Union Victorian Branch~Health Services Union Victorian Branch
+~Libco Pty Ltd~Libco Pty Ltd
+~National Union of Workers - Queensland Branch~National Union of Workers - Queensland Branch
+~National Union of Workers SA Branch~National Union of Workers SA Branch
+~4Change~4Change
+~Australian Democrats Queensland Division~Australian Democrats Queensland Division
+~Australian Democrats SA Division~Australian Democrats SA Division
+~Australian Democrats Victorian Division~Australian Democrats Victorian Division
+~Australian Greens Queensland Branch~Australian Greens
+~Environmentalists for Nuclear Energy Australia Incorporated~Environmentalists for Nuclear Energy Australia Incorporated
+~Family First Party - NSW~Family First Party - NSW
+~Liberal Party of Australia - Queensland Division~Liberal Party of Australia
+~National Party of Australia (Queensland)~National Party of Australia
+~Pauline's United Australia Party~Pauline's United Australia Party
+~Arthur Macartney Family Trust~Arthur Macartney Family Trust
+~Aust Rail Tram and Bus Industry Union of Employees WA Branch~Aust Rail Tram and Bus Industry Union of Employees WA Branch
+~Australasian Meat Industry Employees Union (Tasmanian Branch)~Australasian Meat Industry Employees Union (Tasmanian Branch)
+~Australian Services Union Victorian Private Sector Branch~Australian Services Union Victorian Private Sector Branch
+~Australian Workers Union - TAS Branch~Australian Workers Union - TAS Branch
+~Australian Workers Union, Greater NSW Branch~Australian Workers Union, Greater NSW Branch
+~BellCarroll Pty Ltd~BellCarroll Pty Ltd
+~Blair Mount Pastl Co~Blair Mount Pastl Co
+~Browning Family Investment Trust~Browning Family Investment Trust
+~CFMEU FFPD - VIC~CFMEU FFPD - VIC
+~Construction Forestry Mining & Energy Union SA~Construction Forestry Mining & Energy Union SA
+~DB Scott & Co~DB Scott & Co
+~Denyer Partnership~Denyer Partnership
+~Donations Club~Donations Club
+~Eulie Pastoral Co~Eulie Pastoral Co
+~Gruber (Yass) Pty Limited~Gruber (Yass) Pty Limited
+~Inverell Power Farm Co~Inverell Power Farm Co
+~Milpose Pastoral Company~Milpose Pastoral Company
+~Nowley Pastoral Co~Nowley Pastoral Co
+~NSW Local Gov't Clerical, Admin, Energy, Airlines & Ut (Nat)~NSW Local Gov't Clerical, Admin, Energy, Airlines & Ut (Nat)
+~Petrie Brothers~Petrie Brothers
+~S Johnstone and Son~S Johnstone and Son
+~Shields Partnership~Shields Partnership
+~Taree Lands Pty Ltd, ATF Taree Lands Pty Ltd Trust~Taree Lands Pty Ltd, ATF Taree Lands Pty Ltd Trust
+~W Tanner & Son Partnership~W Tanner & Son Partnership
+~Wass Bros Pty Ltd~Wass Bros Pty Ltd
+~Democratic Labour Party~Democratic Labour Party
+~AG - Rich Foods Pty Ltd~AG - Rich Foods Pty Ltd
+~AK Frogley & Sons~AK Frogley & Sons
+~Aust. Municipal Admin. Clerical & Serv. Union-Cent & S'thrn QLD~Aust. Municipal Admin. Clerical & Serv. Union-Cent & S'thrn QLD
+~Australian Institute of Marine - Power Engineers~Australian Institute of Marine - Power Engineers
+~Australian Services Union NQ Clerical & Admin Branch~Australian Services Union NQ Clerical & Admin Branch
+~Bowen Pastoral Company~Bowen Pastoral Company
+~Carellan Pastoral Co~Carellan Pastoral Co
+~CEPU Electrical, Energy & Serv. Div. Qld & NT Divisional Branch~CEPU Electrical, Energy & Serv. Div. Qld & NT Divisional Branch
+~CFMEU FFPD South Australia Branch~CFMEU FFPD South Australia Branch
+~CFMEU Pulp & Paper Workers' Branch No. 7~CFMEU Pulp & Paper Workers' Branch No. 7
+~Coombe Nut Farm~Coombe Nut Farm
+~Cullane Pastoral Co~Cullane Pastoral Co
+~Don Chipp Foundation Ltd~Don Chipp Foundation Ltd
+~Doonkami Pastoral Company Pty Ltd~Doonkami Pastoral Company Pty Ltd
+~Eulie Pastoral Company~Eulie Pastoral Company
+~F H Moses & Sons Pty Ltd~F H Moses & Sons Pty Ltd
+~Faircloth & Reynolds Pty Ltd~Faircloth & Reynolds Pty Ltd
+~Fat Systems Pty Ltd~Fat Systems Pty Ltd
+~Golden West Services Pty Ltd~Golden West Services Pty Ltd
+~Gruber (Yass) Pty Ltd~Gruber (Yass) Pty Ltd
+~Hastings Business Lawyers P/L~Hastings Business Lawyers P/L
+~JA Bradley & Sons~JA Bradley & Sons
+~John Brown & Sons~John Brown & Sons
+~Labor Resources Pty Ltd~Australian Labor Party (ALP)
+~McClymont Holdings Pty Ltd~McClymont Holdings Pty Ltd
+~NSW Local Gov't Clerical Admin. Energy Air & Utilities T/A USU~NSW Local Gov't Clerical Admin. Energy Air & Utilities T/A USU
+~P & P Flanagan and Blauvelt Pastoral Company~P & P Flanagan and Blauvelt Pastoral Company
+~R Hardman & Son Pty Ltd~R Hardman & Son Pty Ltd
+~Roger Moore Pty Ltd~Roger Moore Pty Ltd
+~S. Johnstone and Sons~S. Johnstone and Sons
+~Southern District Panel Beaters Pty Ltd~Southern District Panel Beaters Pty Ltd
+~T F Kerin Agricultural Co~T F Kerin Agricultural Co
+~Transport Workers Union~Transport Workers Union
+~Australian Democrats~Australian Democrats
+~Australian Democrats NSW Division~Australian Democrats NSW Division
+~Australian Greens (NT Branch)~Australian Greens
+~Citizens Electoral Council of Australia~Citizens Electoral Council of Australia
+~Socialist Alliance NT~Socialist Alliance NT
+~Australian Labor Party - Holdings Pty Ltd~Australian Labor Party (ALP)
+~Australian Rail,Tram & Bus Industry - TAS Branch~Australian Rail,Tram & Bus Industry - TAS Branch
+~Casey Business Briefing Club~Casey Business Briefing Club
+~CEPU Communications Division P & T - WA Branch~CEPU Communications Division P & T - WA Branch
+~Friends of Indi~Friends of Indi
+~Labour Movement Education Association Inc.~Labour Movement Education Association Inc.
+~Liberal Club Ltd~Liberal Party of Australia
+~Liberal Properties (Northern Metropolitan Region) Limited~Liberal Party of Australia
+~National Club Ltd~National Club Ltd
+~National Union of Workers (Western Australian Branch)~National Union of Workers (Western Australian Branch)
+~Supporters for Re-Electing Kotsiras~Supporters for Re-Electing Kotsiras
+~The Hawkesbury Club~The Hawkesbury Club
+~The Jim Killen Young Liberal Foundation~Liberal Party of Australia
+~Australian Democrats ACT Division~Australian Democrats ACT Division
+~Australian Democrats Tasmanian Division~Australian Democrats Tasmanian Division
+~Australian Progressive Alliance~Australian Progressive Alliance
+~Australians Against Further Immigration~Australians Against Further Immigration
+~Hope Party Australia - ethics equality ecology~Hope Party Australia - ethics equality ecology
+~National Party of Australia (S.A.) Inc.~National Party of Australia
+~New Country Party~New Country Party
+~One Nation SA~Pauline Hanson's One Nation
+~One Nation Western Australia~Pauline Hanson's One Nation
+~Progressive Labour Party~Progressive Labour Party
+~The Fishing Party~The Fishing Party
+~250 Club Limited~250 Club Limited
+~500 Club of New South Wales Inc~500 Club of New South Wales Inc
+~Bass 200 Club~Bass 200 Club
+~Curlew Nominee Trust~Curlew Nominee Trust
+~Dame Pattie Menzies Liberal Foundation~Liberal Party of Australia
+~Parliamentary Liberal Party Communication Committee (Victoria)~Liberal Party of Australia
+~The Geelong 500 Club Inc~The Geelong 500 Club Inc
+~Australian Democrats, Western Australian Division~Australian Democrats, Western Australian Division
+~Australian Greens - SA~Australian Greens
+~One Nation Victoria~Pauline Hanson's One Nation
+~Pauline Hanson's One Nation - QLD~Pauline Hanson's One Nation
+~Pauline Hanson's One Nation - WA~Pauline Hanson's One Nation
+~Tasmania First Party~Tasmania First Party
+~The Great Australians~The Great Australians
+~National Free Enterprise Foundation (WA) Ltd~National Free Enterprise Foundation (WA) Ltd
+~Nuclear Disarmament Party of Australia~Nuclear Disarmament Party of Australia
+~Outdoor Recreation Party~Outdoor Recreation Party
+~ADD LIB~ADD LIB
+~Bjelke Petersen Foundation Trust~Bjelke Petersen Foundation Trust
+~Labour Movement Work Experience Program~Labour Movement Work Experience Program
+~NPA Foundation~NPA Foundation
+~NPA Nominees Pty Ltd~NPA Nominees Pty Ltd
+~Queensland First Pty Ltd~Queensland First Pty Ltd
+~Wyndham 2000 Club~Wyndham 2000 Club
+~Advance Australia Party~Advance Australia Party
+~Help End Marijuana Prohibition~Help End Marijuana Prohibition
+~No Goods and Services Tax Party~No Goods and Services Tax Party
+~Non-Custodial Parents Party~Non-Custodial Parents Party
+~Phil Cleary - Independent Australia~Phil Cleary - Independent Australia
+~Save the ADI Site Party~Save the ADI Site Party
+~Unity - Say No To Hanson~Unity - Say No To Hanson
+~Agri-Arena Australia Club~Agri-Arena Australia Club
+~Green and Gold Property Pty Ltd~Australian Greens
+~Queensland Research Pty Ltd~Queensland Research Pty Ltd
+~The Great Australians Ltd~The Great Australians Ltd
+~The Sapphire Club~The Sapphire Club
+~Australian Reform Party~Australian Reform Party
+~Labor West~Australian Labor Party (ALP)
+~McKell Foundation Inc~McKell Foundation Inc
+~The Brisbane's Future Committee~The Brisbane's Future Committee
+~Socialist Equality Party~Socialist Equality Party
+~AD Properties Pty Ltd~AD Properties Pty Ltd
+~Australian Labor Party (NSW) Gifts Pty Ltd~Australian Labor Party (ALP)
+~Hellenic 200 Club~Hellenic 200 Club
+~Australia First Party~Australia First Party
+~Australian Shooters Party~Australian Shooters Party
+~Democratic Socialist Electoral League~Democratic Socialist Electoral League
+~Natural Law Party~Natural Law Party
+~Nuclear Disarmament Party~Nuclear Disarmament Party
+~Tasmanian Independent Senator Brian Harradine Group~Tasmanian Independent Senator Brian Harradine Group
+~The ACT Greens - ACT~Australian Greens
+~Liberal Party of Australia (NSW Division) Ryde Forum~Liberal Party of Australia
+~Pauline Hanson's One Nation Ltd~Pauline Hanson's One Nation
+~Pauline Hanson's One Nation Trust~Pauline Hanson's One Nation

@@ -15,7 +15,7 @@
     --primary-tint-color: #FFAFD2;
     --secondary-color: #33B1FF;
     --secondary-tint-color: #BAE6FF;
-    --default-text-color: #FFFFFF;
+    --default-text-color: #dddddd;
     --invert-text-color: #000000;
     --background-surface-color: #020E19;
     --surface-color: #061727;
@@ -200,4 +200,10 @@ footer {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    padding: var(--sp3);
+}
+
+#category_chart {
+    width: 100%;
+    height: 600px;
 }
